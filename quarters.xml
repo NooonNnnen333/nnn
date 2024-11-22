@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rations xsi:type="House">
+    <type>House</type>
+    <population>1</population>
+    <address>1</address>
+    <square>1</square>
+  </Rations>
+  <Rations xsi:type="House">
+    <type>House</type>
+    <population>12</population>
+    <address>333</address>
+    <square>3</square>
+  </Rations>
+  <Rations xsi:type="OfficeBuilding">
+    <type>Office</type>
+    <population>11</population>
+    <address>555</address>
+    <square>55</square>
+  </Rations>
+  <Rations xsi:type="OfficeBuilding">
+    <type>Office</type>
+    <population>0</population>
+    <address>43</address>
+    <square>2</square>
+  </Rations>
+  <Rations xsi:type="OfficeBuilding">
+    <type>Office</type>
+    <population>0</population>
+    <address>2</address>
+    <square>2</square>
+  </Rations>
+</ArrayOfRations>

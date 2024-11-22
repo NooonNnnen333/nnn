@@ -1,0 +1,14 @@
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/bin/Debug/net8.0/Console
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/bin/Debug/net8.0/Console.deps.json
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/bin/Debug/net8.0/Console.runtimeconfig.json
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/bin/Debug/net8.0/Console.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/bin/Debug/net8.0/Console.pdb
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/refint/Console.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.pdb
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/Console.genruntimeconfig.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/Console/obj/Debug/net8.0/ref/Console.dll
